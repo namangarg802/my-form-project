@@ -1,8 +1,9 @@
 to run from EC2
 Clone repo
 my npm start was giving issues so this fixed it, 
-run every time to fix node old version issue
-	export NODE_OPTIONS=--openssl-legacy-provider
+run every time to fix node old version issue.
+
+export NODE_OPTIONS=--openssl-legacy-provider
 ==================================
 COmmand to start npm
 	HOST=0.0.0.0 npm start
