@@ -6,7 +6,8 @@ run every time to fix node old version issue.
 export NODE_OPTIONS=--openssl-legacy-provider
 ==================================
 COmmand to start npm
-	HOST=0.0.0.0 npm start
+
+HOST=0.0.0.0 npm start
 ==================================
 
 
