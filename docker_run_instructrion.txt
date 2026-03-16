@@ -1,0 +1,2 @@
+docker run -d -p 3000:80 -it form_proj_multistage_prod
+docker run -d -p 3000:3000 namanpro
